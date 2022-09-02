@@ -3,8 +3,8 @@
 
 <div>
 <a href="https://github.com/AlissonDevPort">
-<img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=alissondevport&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissondevport&layout=compact&langs_count-16&theme=radical"/>
+<img height="175em" width="48%" src="https://github-readme-stats.vercel.app/api?username=alissondevport&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="175em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissondevport&layout=compact&langs_count-16&theme=radical"/>
 
 </div>
 
