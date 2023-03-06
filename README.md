@@ -1,5 +1,5 @@
 ## Olá, Me chamo Alisson Portela!
-- 🌱 Atualmente estudando ReactJs!! 
+- 🌱 Atualmente estudando e exercendo cargo de dev estagiario em ReactJs/Dart-flutter!! 
 
 <div>
 <a href="https://github.com/AlissonDevPort">
